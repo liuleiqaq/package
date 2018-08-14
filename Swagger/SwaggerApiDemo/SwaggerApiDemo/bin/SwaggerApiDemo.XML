@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerApiDemo</name>
+    </assembly>
+    <members>
+        <member name="M:SwaggerApiDemo.SwaggerConfig.GetXmlCommentsPath">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:SwaggerApiDemo.MyJson">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SwaggerApiDemo.MyJson.ObjectToJson(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SwaggerApiDemo.MyJson.ObjectToJson(System.Collections.Generic.List{System.Object})">
+            <summary>
+            
+            </summary>
+            <param name="objs"></param>
+            <returns></returns>
+        </member>
+        <member name="T:SwaggerApiDemo.Controllers.AppController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SwaggerApiDemo.Controllers.AppController.Get">
+            <summary>
+            获取所有APP
+            </summary>
+            <returns>获取所有APP集合</returns>
+        </member>
+        <member name="M:SwaggerApiDemo.Controllers.AppController.Get(System.Int32)">
+            <summary>
+            获取指定APP
+            </summary>
+            <param name="id">需要获取APP的id</param>
+            <returns>返回指定APP</returns>
+        </member>
+        <member name="M:SwaggerApiDemo.Controllers.AppController.Insert(SwaggerApiDemo.AppModel)">
+            <summary>
+            增加App信息
+            </summary>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SwaggerApiDemo.Controllers.AppController.UpdateApp(SwaggerApiDemo.AppModel)">
+            <summary>
+            更新APP信息
+            </summary>
+            <param name="value">APP信息</param>
+            <returns>更新结果</returns>
+        </member>
+        <member name="M:SwaggerApiDemo.Controllers.AppController.DeleteApp(System.Int32)">
+            <summary>
+            删除APP信息
+            </summary>
+            <param name="id">APP编号</param>
+            <returns>删除结果</returns>
+        </member>
+        <member name="T:SwaggerApiDemo.AppModel">
+            <summary>
+            app信息
+            </summary>
+        </member>
+        <member name="P:SwaggerApiDemo.AppModel.Id">
+            <summary>
+            App的ID号
+            </summary>
+        </member>
+        <member name="P:SwaggerApiDemo.AppModel.Name">
+            <summary>
+            App的名称
+            </summary>
+        </member>
+        <member name="P:SwaggerApiDemo.AppModel.Remark">
+            <summary>
+            App的说明
+            </summary>
+        </member>
+        <member name="T:SwaggerApiDemo.ResultJson">
+            <summary>
+            返回处理结果
+            </summary>
+        </member>
+        <member name="P:SwaggerApiDemo.ResultJson.Code">
+            <summary>
+            返回代码
+            </summary>
+        </member>
+        <member name="P:SwaggerApiDemo.ResultJson.Message">
+            <summary>
+            返回消息
+            </summary>
+        </member>
+    </members>
+</doc>

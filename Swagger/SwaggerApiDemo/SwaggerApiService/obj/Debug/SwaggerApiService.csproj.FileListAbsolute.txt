@@ -1,0 +1,5 @@
+E:\Swagger\SwaggerApiDemo\SwaggerApiService\bin\Debug\SwaggerApiService.dll
+E:\Swagger\SwaggerApiDemo\SwaggerApiService\bin\Debug\SwaggerApiService.pdb
+E:\Swagger\SwaggerApiDemo\SwaggerApiService\obj\Debug\SwaggerApiService.csprojResolveAssemblyReference.cache
+E:\Swagger\SwaggerApiDemo\SwaggerApiService\obj\Debug\SwaggerApiService.dll
+E:\Swagger\SwaggerApiDemo\SwaggerApiService\obj\Debug\SwaggerApiService.pdb

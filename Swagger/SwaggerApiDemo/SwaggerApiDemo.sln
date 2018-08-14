@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerApiDemo", "SwaggerApiDemo\SwaggerApiDemo.csproj", "{EBA3827F-8B28-41A7-B150-755584366AB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerApiModel", "SwaggerApiModel\SwaggerApiModel.csproj", "{5622D185-F48A-46DB-AB05-C76110367A75}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{241260BD-F79D-45DC-ABB2-57D5C2E0518A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerApiService", "SwaggerApiService\SwaggerApiService.csproj", "{6F6961F1-71DE-4197-A142-8AAE9CA07F69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerApiRepository", "SwaggerApiRepository\SwaggerApiRepository.csproj", "{92F3C39C-84A5-4A54-8E23-E8490577B03C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerApiDemoSqlServer", "SwaggerApiDemoSqlServer\SwaggerApiDemoSqlServer.csproj", "{ECC7DBF4-463F-4D4A-9563-BDBEB2EA1B94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBA3827F-8B28-41A7-B150-755584366AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA3827F-8B28-41A7-B150-755584366AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA3827F-8B28-41A7-B150-755584366AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA3827F-8B28-41A7-B150-755584366AB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5622D185-F48A-46DB-AB05-C76110367A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5622D185-F48A-46DB-AB05-C76110367A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5622D185-F48A-46DB-AB05-C76110367A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5622D185-F48A-46DB-AB05-C76110367A75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F6961F1-71DE-4197-A142-8AAE9CA07F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6961F1-71DE-4197-A142-8AAE9CA07F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6961F1-71DE-4197-A142-8AAE9CA07F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6961F1-71DE-4197-A142-8AAE9CA07F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92F3C39C-84A5-4A54-8E23-E8490577B03C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F3C39C-84A5-4A54-8E23-E8490577B03C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F3C39C-84A5-4A54-8E23-E8490577B03C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F3C39C-84A5-4A54-8E23-E8490577B03C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC7DBF4-463F-4D4A-9563-BDBEB2EA1B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC7DBF4-463F-4D4A-9563-BDBEB2EA1B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC7DBF4-463F-4D4A-9563-BDBEB2EA1B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC7DBF4-463F-4D4A-9563-BDBEB2EA1B94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
