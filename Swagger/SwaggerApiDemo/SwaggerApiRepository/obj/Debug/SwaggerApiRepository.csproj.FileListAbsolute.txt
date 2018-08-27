@@ -3,3 +3,8 @@ E:\Swagger\SwaggerApiDemo\SwaggerApiRepository\bin\Debug\SwaggerApiRepository.pd
 E:\Swagger\SwaggerApiDemo\SwaggerApiRepository\obj\Debug\SwaggerApiRepository.csprojResolveAssemblyReference.cache
 E:\Swagger\SwaggerApiDemo\SwaggerApiRepository\obj\Debug\SwaggerApiRepository.dll
 E:\Swagger\SwaggerApiDemo\SwaggerApiRepository\obj\Debug\SwaggerApiRepository.pdb
+E:\package\Swagger\SwaggerApiDemo\SwaggerApiRepository\bin\Debug\SwaggerApiRepository.dll
+E:\package\Swagger\SwaggerApiDemo\SwaggerApiRepository\bin\Debug\SwaggerApiRepository.pdb
+E:\package\Swagger\SwaggerApiDemo\SwaggerApiRepository\obj\Debug\SwaggerApiRepository.csprojResolveAssemblyReference.cache
+E:\package\Swagger\SwaggerApiDemo\SwaggerApiRepository\obj\Debug\SwaggerApiRepository.dll
+E:\package\Swagger\SwaggerApiDemo\SwaggerApiRepository\obj\Debug\SwaggerApiRepository.pdb

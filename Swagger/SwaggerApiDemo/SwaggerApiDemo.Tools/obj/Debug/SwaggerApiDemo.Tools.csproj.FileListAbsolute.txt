@@ -1,0 +1,6 @@
+E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo.Tools\obj\Debug\SwaggerApiDemo.Tools.csprojResolveAssemblyReference.cache
+E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo.Tools\bin\Debug\SwaggerApiDemo.Tools.dll
+E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo.Tools\bin\Debug\SwaggerApiDemo.Tools.pdb
+E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo.Tools\bin\Debug\ThoughtWorks.QRCode.dll
+E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo.Tools\obj\Debug\SwaggerApiDemo.Tools.dll
+E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo.Tools\obj\Debug\SwaggerApiDemo.Tools.pdb

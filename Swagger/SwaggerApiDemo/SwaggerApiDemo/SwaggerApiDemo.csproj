@@ -180,6 +180,7 @@
     <Compile Include="CommonFuns\MyJson.cs" />
     <Compile Include="Controllers\AppController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\QRCodeController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -235,7 +236,12 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="SwaggerUI\lib\.DS_Store" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\SwaggerApiDemo.Tools\SwaggerApiDemo.Tools.csproj">
+      <Project>{F6B3378E-95EF-4F9D-809F-99700CB057AE}</Project>
+      <Name>SwaggerApiDemo.Tools</Name>
+    </ProjectReference>
+  </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
     <None Include="Project_Readme.html" />

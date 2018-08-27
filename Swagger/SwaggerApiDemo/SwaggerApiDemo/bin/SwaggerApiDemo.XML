@@ -68,6 +68,18 @@
             <param name="id">APP编号</param>
             <returns>删除结果</returns>
         </member>
+        <member name="T:SwaggerApiDemo.Controllers.QRCodeController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SwaggerApiDemo.Controllers.QRCodeController.GenerateErCodesByTaskId(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="strTaskID"></param>
+            <returns></returns>
+        </member>
         <member name="T:SwaggerApiDemo.AppModel">
             <summary>
             app信息
