@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerApiDemo", "SwaggerAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerApiModel", "SwaggerApiModel\SwaggerApiModel.csproj", "{5622D185-F48A-46DB-AB05-C76110367A75}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{241260BD-F79D-45DC-ABB2-57D5C2E0518A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerApiService", "SwaggerApiService\SwaggerApiService.csproj", "{6F6961F1-71DE-4197-A142-8AAE9CA07F69}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerApiRepository", "SwaggerApiRepository\SwaggerApiRepository.csproj", "{92F3C39C-84A5-4A54-8E23-E8490577B03C}"

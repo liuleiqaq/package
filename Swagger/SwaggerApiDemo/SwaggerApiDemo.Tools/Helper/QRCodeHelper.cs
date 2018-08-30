@@ -70,13 +70,18 @@ namespace SwaggerApiDemo.Tools
         {
             try
             {
-                QRCodeEncoder qRCodeEncoder = new QRCodeEncoder();
-                qRCodeEncoder.QRCodeEncodeMode = QRCodeEncoder.ENCODE_MODE.BYTE;//设置二维码编码格式 
-                qRCodeEncoder.QRCodeScale = 4;//设置编码测量度             
-                qRCodeEncoder.QRCodeVersion = 7;//设置编码版本   
-                qRCodeEncoder.QRCodeErrorCorrect = QRCodeEncoder.ERROR_CORRECTION.M;//设置错误校验 
-
-                Bitmap image = qRCodeEncoder.Encode(content);
+                //创建二维码生成类  
+                QRCodeEncoder qrCodeEncoder = new QRCodeEncoder();
+                //设置编码模式  
+                qrCodeEncoder.QRCodeEncodeMode = QRCodeEncoder.ENCODE_MODE.BYTE;
+                //设置编码测量度  
+                qrCodeEncoder.QRCodeScale = 15;
+                //设置编码版本  
+                qrCodeEncoder.QRCodeVersion = 0;
+                //设置编码错误纠正  
+                qrCodeEncoder.QRCodeErrorCorrect = QRCodeEncoder.ERROR_CORRECTION.M;
+                //生成二维码图片  
+                System.Drawing.Bitmap image = qrCodeEncoder.Encode(content);
                 return image;
             }
             catch (Exception ex)
@@ -187,7 +192,6 @@ namespace SwaggerApiDemo.Tools
         /// <returns></returns>   
         private static GraphicsPath CreateRoundedRectanglePath(Rectangle rect, int cornerRadius)
         {
-            //下午重新整理下，圆角矩形   
             GraphicsPath roundedRect = new GraphicsPath();
             roundedRect.AddArc(rect.X, rect.Y, cornerRadius * 2, cornerRadius * 2, 180, 90);
             roundedRect.AddLine(rect.X + cornerRadius, rect.Y, rect.Right - cornerRadius * 2, rect.Y);
