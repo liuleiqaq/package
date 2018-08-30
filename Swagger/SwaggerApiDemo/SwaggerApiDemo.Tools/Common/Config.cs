@@ -48,13 +48,13 @@ namespace SwaggerApiDemo.Tools
         }
 
         /// <summary>
-        /// Logo图片保存路径
+        /// 二维码Logo保存路径
         /// </summary>
-        public static string LoggSavePath
+        public static string LogoPath
         {
             get
             {
-                return GetConfig("LoggSavePath");
+                return GetConfig("LogoPath");
             }
         }
 

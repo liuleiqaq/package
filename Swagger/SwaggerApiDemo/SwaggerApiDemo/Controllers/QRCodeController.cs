@@ -32,9 +32,7 @@ namespace SwaggerApiDemo.Controllers
                 File.Delete(path);
             }
             string content = "http://www.baidu.com";
-            string logopath = Config.LoggSavePath;
-            //string logopath = System.AppDomain.CurrentDomain.BaseDirectory + "logo_32X32.ico";            
-
+            string logopath = HttpContext.Current.Server.MapPath(Config.LogoPath + "Images/logo.png");
             Bitmap image = QRCodeHelper.CreateQRCodeWithLogo(content, logopath);
 
             string pictureName = "/" + strTaskID + ".png"; //图片保存的命名
