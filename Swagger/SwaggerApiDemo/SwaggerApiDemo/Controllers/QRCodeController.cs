@@ -1,4 +1,5 @@
-﻿using SwaggerApiDemo.Tools;
+﻿
+using SwaggerApiDemo.Tools;
 using System.Drawing;
 using System.IO;
 using System.Web;
@@ -33,13 +34,14 @@ namespace SwaggerApiDemo.Controllers
             }
             string content = "http://www.baidu.com";
             string logopath = HttpContext.Current.Server.MapPath(Config.LogoPath + "Images/logo.png");
-            Bitmap image = QRCodeHelper.CreateQRCodeWithLogo(content, logopath);
+            //Bitmap image = QRCodeHelper.CreateQRCodeWithLogo(content, logopath);
+            Bitmap image = QRCodeHelper.CreateQRCodeWithLogo(string.Format("{0}?taskid={1}", Config.CodeScanUrl, strTaskID), logopath);//生成二维码logo图片
 
             string pictureName = "/" + strTaskID + ".png"; //图片保存的命名
             string filePath = strPhysicsPath.TrimEnd('\\') + pictureName;
             image.Save(filePath, System.Drawing.Imaging.ImageFormat.Png);
 
-            string retfilePath = CommonFuns.GetFullPath(CommonFuns.urlConvertor(filePath));
+            string retfilePath = CommonFunPaths.GetFullPath(CommonFunPaths.urlConvertor(filePath));
             return retfilePath;
         }
     }

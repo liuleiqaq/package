@@ -2,7 +2,7 @@
 
 namespace SwaggerApiDemo.Tools
 {
-    public class CommonFuns
+    public class CommonFunPaths
     {
         /// <summary>
         /// 获取虚拟路径的全路径
