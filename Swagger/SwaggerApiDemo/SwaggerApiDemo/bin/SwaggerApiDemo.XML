@@ -10,6 +10,37 @@
             </summary>
             <returns></returns>
         </member>
+        <member name="T:SwaggerApiDemo.CommonFuns.DateTimeConversion">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SwaggerApiDemo.CommonFuns.DateTimeConversion.getStrDateTime(System.Nullable{System.DateTime})">
+            <summary>
+            
+            </summary>
+            <param name="dt"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SwaggerApiDemo.CommonFuns.DateTimeConversion.getDtDateTime(System.Nullable{System.DateTime})">
+            <summary>
+            
+            </summary>
+            <param name="dt"></param>
+            <returns></returns>
+        </member>
+        <member name="T:SwaggerApiDemo.CommonFuns.StringConversion">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SwaggerApiDemo.CommonFuns.StringConversion.strList(System.String)">
+            <summary>
+            string转List
+            </summary>
+            <param name="parameter">英文逗号分隔的string字符串</param>
+            <returns></returns>
+        </member>
         <member name="T:SwaggerApiDemo.MyJson">
             <summary>
             
@@ -80,6 +111,36 @@
             <param name="strTaskID"></param>
             <returns></returns>
         </member>
+        <member name="M:SwaggerApiDemo.Controllers.QRCodeController.Getlist">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:SwaggerApiDemo.Controllers.TempDataController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SwaggerApiDemo.Controllers.TempDataController.GetList(System.Nullable{System.DateTime},System.Nullable{System.DateTime})">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SwaggerApiDemo.Controllers.TempDataController.GetDataTable">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SwaggerApiDemo.Controllers.TempDataController.GetCrossTable(System.Data.DataTable)">
+            <summary>
+            
+            </summary>
+            <param name="dt"></param>
+            <returns></returns>
+        </member>
         <member name="T:SwaggerApiDemo.AppModel">
             <summary>
             app信息
@@ -113,6 +174,26 @@
         <member name="P:SwaggerApiDemo.ResultJson.Message">
             <summary>
             返回消息
+            </summary>
+        </member>
+        <member name="T:SwaggerApiDemo.TempClass">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SwaggerApiDemo.TempClass.Id">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SwaggerApiDemo.TempClass.Name">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SwaggerApiDemo.TempClass.Date">
+            <summary>
+            
             </summary>
         </member>
     </members>

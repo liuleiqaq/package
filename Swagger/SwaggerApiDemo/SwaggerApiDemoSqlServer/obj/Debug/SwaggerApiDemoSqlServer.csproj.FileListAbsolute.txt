@@ -6,3 +6,4 @@ E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemoSqlServer\bin\Debug\SwaggerApiDe
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemoSqlServer\bin\Debug\SwaggerApiDemoSqlServer.pdb
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemoSqlServer\obj\Debug\SwaggerApiDemoSqlServer.dll
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemoSqlServer\obj\Debug\SwaggerApiDemoSqlServer.pdb
+E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemoSqlServer\obj\Debug\SwaggerApiDemoSqlServer.csprojResolveAssemblyReference.cache

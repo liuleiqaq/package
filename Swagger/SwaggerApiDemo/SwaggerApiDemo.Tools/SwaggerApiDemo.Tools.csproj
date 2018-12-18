@@ -47,7 +47,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Common\CommonFuns.cs" />
+    <Compile Include="Common\CommonFunPaths.cs" />
     <Compile Include="Common\Config.cs" />
     <Compile Include="Helper\QRCodeHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

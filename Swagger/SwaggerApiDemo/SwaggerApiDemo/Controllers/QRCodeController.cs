@@ -1,7 +1,9 @@
 ﻿
 using SwaggerApiDemo.Tools;
+using System.Collections.Generic;
 using System.Drawing;
 using System.IO;
+using System.Linq;
 using System.Web;
 using System.Web.Http;
 
@@ -17,6 +19,7 @@ namespace SwaggerApiDemo.Controllers
         /// </summary>
         /// <param name="strTaskID"></param>
         /// <returns></returns>
+        [HttpPost]
         public string GenerateErCodesByTaskId(string strTaskID)
         {
             string strPhysicsPath = HttpContext.Current.Server.MapPath(Config.AccPath + "Temp/QrCodeImages");//图片保存地址
@@ -44,5 +47,29 @@ namespace SwaggerApiDemo.Controllers
             string retfilePath = CommonFunPaths.GetFullPath(CommonFunPaths.urlConvertor(filePath));
             return retfilePath;
         }
+
+
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
+        [HttpGet]
+        public List<string> Getlist()
+        {
+            var list1 = new List<string>() { "1", "2", "3", "4" };
+            var list2 = new List<string>() { "1", "2", "3", "4" };
+
+
+            var list3 = list1.Intersect(list2).ToList();
+
+            return list3;
+        }
+
+
+
     }
+
+
+
 }
