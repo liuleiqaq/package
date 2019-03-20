@@ -117,30 +117,6 @@
             </summary>
             <returns></returns>
         </member>
-        <member name="T:SwaggerApiDemo.Controllers.TempDataController">
-            <summary>
-            
-            </summary>
-        </member>
-        <member name="M:SwaggerApiDemo.Controllers.TempDataController.GetList(System.Nullable{System.DateTime},System.Nullable{System.DateTime})">
-            <summary>
-            
-            </summary>
-            <returns></returns>
-        </member>
-        <member name="M:SwaggerApiDemo.Controllers.TempDataController.GetDataTable">
-            <summary>
-            
-            </summary>
-            <returns></returns>
-        </member>
-        <member name="M:SwaggerApiDemo.Controllers.TempDataController.GetCrossTable(System.Data.DataTable)">
-            <summary>
-            
-            </summary>
-            <param name="dt"></param>
-            <returns></returns>
-        </member>
         <member name="T:SwaggerApiDemo.AppModel">
             <summary>
             app信息
