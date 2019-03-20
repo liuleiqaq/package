@@ -5,7 +5,6 @@ E:\Swagger\SwaggerApiDemo\SwaggerApiModel\obj\Debug\SwaggerApiModel.dll
 E:\Swagger\SwaggerApiDemo\SwaggerApiModel\obj\Debug\SwaggerApiModel.pdb
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiModel\bin\Debug\SwaggerApiModel.dll
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiModel\bin\Debug\SwaggerApiModel.pdb
+E:\package\Swagger\SwaggerApiDemo\SwaggerApiModel\obj\Debug\SwaggerApiModel.csproj.CoreCompileInputs.cache
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiModel\obj\Debug\SwaggerApiModel.dll
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiModel\obj\Debug\SwaggerApiModel.pdb
-E:\package\Swagger\SwaggerApiDemo\SwaggerApiModel\obj\Debug\SwaggerApiModel.csprojAssemblyReference.cache
-E:\package\Swagger\SwaggerApiDemo\SwaggerApiModel\obj\Debug\SwaggerApiModel.csproj.CoreCompileInputs.cache

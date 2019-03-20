@@ -103,6 +103,7 @@ E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\Microsoft.CodeDom.Providers
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\Microsoft.Web.Infrastructure.dll
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\Newtonsoft.Json.dll
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\Swagger.Net.dll
+E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\SwaggerApiDemo.Tools.dll
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\Swashbuckle.Core.dll
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\System.Net.Http.Formatting.dll
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\System.Web.Helpers.dll
@@ -117,6 +118,9 @@ E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\System.Web.WebPages.Razor.d
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\WebActivator.dll
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\WebActivatorEx.dll
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\WebGrease.dll
+E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\ThoughtWorks.QRCode.dll
+E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\ICSharpCode.SharpZipLib.dll
+E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\SwaggerApiDemo.Tools.pdb
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\Microsoft.AI.DependencyCollector.xml
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\Microsoft.AI.Web.xml
@@ -137,6 +141,8 @@ E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\System.Web.WebPages.xml
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\System.Web.WebPages.Deployment.xml
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\System.Web.WebPages.Razor.xml
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\Antlr3.Runtime.pdb
+E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\ICSharpCode.SharpZipLib.pdb
+E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\ICSharpCode.SharpZipLib.xml
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\zh-Hans\System.Web.Helpers.resources.dll
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\zh-Hans\System.Web.Http.resources.dll
@@ -147,14 +153,8 @@ E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\zh-Hans\System.Web.Razor.re
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\zh-Hans\System.Web.WebPages.resources.dll
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\obj\Debug\SwaggerApiDemo.dll
-E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\obj\Debug\SwaggerApiDemo.pdb
-E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\SwaggerApiDemo.Tools.dll
-E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\ThoughtWorks.QRCode.dll
-E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\SwaggerApiDemo.Tools.pdb
-E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\ICSharpCode.SharpZipLib.dll
-E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\ICSharpCode.SharpZipLib.pdb
-E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\bin\ICSharpCode.SharpZipLib.xml
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\obj\Debug\SwaggerApiDemo.csprojAssemblyReference.cache
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\obj\Debug\SwaggerApiDemo.csproj.CoreCompileInputs.cache
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\obj\Debug\SwaggerApiDemo.csproj.CopyComplete
+E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\obj\Debug\SwaggerApiDemo.dll
+E:\package\Swagger\SwaggerApiDemo\SwaggerApiDemo\obj\Debug\SwaggerApiDemo.pdb

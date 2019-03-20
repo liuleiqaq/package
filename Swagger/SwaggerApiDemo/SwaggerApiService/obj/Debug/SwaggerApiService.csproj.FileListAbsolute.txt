@@ -5,7 +5,7 @@ E:\Swagger\SwaggerApiDemo\SwaggerApiService\obj\Debug\SwaggerApiService.dll
 E:\Swagger\SwaggerApiDemo\SwaggerApiService\obj\Debug\SwaggerApiService.pdb
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiService\bin\Debug\SwaggerApiService.dll
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiService\bin\Debug\SwaggerApiService.pdb
-E:\package\Swagger\SwaggerApiDemo\SwaggerApiService\obj\Debug\SwaggerApiService.dll
-E:\package\Swagger\SwaggerApiDemo\SwaggerApiService\obj\Debug\SwaggerApiService.pdb
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiService\obj\Debug\SwaggerApiService.csprojAssemblyReference.cache
 E:\package\Swagger\SwaggerApiDemo\SwaggerApiService\obj\Debug\SwaggerApiService.csproj.CoreCompileInputs.cache
+E:\package\Swagger\SwaggerApiDemo\SwaggerApiService\obj\Debug\SwaggerApiService.dll
+E:\package\Swagger\SwaggerApiDemo\SwaggerApiService\obj\Debug\SwaggerApiService.pdb
